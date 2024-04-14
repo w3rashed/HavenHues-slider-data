@@ -1,0 +1,75 @@
+ [
+    {
+      "id": "1",
+      "segment_name": "Single-family home",
+      "status": "sale",
+      "price": "$500,000",
+      "area": "2000 sq ft",
+      "bathrooms": 2,
+      "image_url": "https://example.com/single_family_home_image.jpg"
+    },
+    {
+      "id": "2",
+      "segment_name": "Townhouse",
+      "status": "sale",
+      "price": "$350,000",
+      "area": "1500 sq ft",
+      "bathrooms": 2,
+      "image_url": "https://example.com/townhouse_image.jpg"
+    },
+    {
+      "id": "3",
+      "segment_name": "Apartment",
+      "status": "rent",
+      "price": "$1,200/month",
+      "area": "800 sq ft",
+      "bathrooms": 1,
+      "image_url": "https://example.com/apartment_image.jpg"
+    },
+    {
+      "id": "4",
+      "segment_name": "Student housing",
+      "status": "rent",
+      "price": "$800/month",
+      "area": "1600 sq ft",
+      "bathrooms": 2,
+      "image_url": "https://example.com/student_housing_image.jpg"
+    },
+    {
+      "id": "5",
+      "segment_name": "Senior living community",
+      "status": "rent",
+      "price": "$3,000/month",
+      "area":"2500 sq ft",
+      "bathrooms": "2",
+      "image_url": "https://example.com/senior_living_image.jpg"
+    },
+    {
+      "id": "6",
+      "segment_name": "Vacation rental",
+      "status": "rent",
+      "price": "$200/night",
+      "area": "1600 sq ft",
+      "bathrooms": 1,
+      "image_url": "https://example.com/vacation_rental_image.jpg"
+    },
+    {
+      "id": "7",
+      "segment_name": "Single-family home",
+      "status": "sale",
+      "price": "$600,000",
+      "area": "2500 sq ft",
+      "bathrooms": 3,
+      "image_url": "https://example.com/single_family_home2_image.jpg"
+    },
+    {
+      "id": "8",
+      "segment_name": "Apartment",
+      "status": "rent",
+      "price": "$1,500/month",
+      "area": "1200 sq ft",
+      "bathrooms": 2,
+      "image_url": "https://example.com/apartment2_image.jpg"
+    }
+  ]
+
